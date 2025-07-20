@@ -35,8 +35,7 @@ reviews:
     ignore_title_keywords: []
     labels: []
     drafts: false
-    base_branches: 
-      help-center-base 
+    base_branches: [help-center-base] 
   finishing_touches:
     docstrings:
       enabled: true

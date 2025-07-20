@@ -36,6 +36,7 @@ reviews:
     labels: []
     drafts: false
     base_branches: 
+      - "main"
       - "help-center-base"
   finishing_touches:
     docstrings:
